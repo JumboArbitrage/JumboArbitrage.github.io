@@ -4,4 +4,4 @@
 
 👨‍🚀 **So keep an eye on our [open source repository](https://github.com/JumboArbitrage), although it's very, very crude and ugly.**
 
-📨 **Contact us at [haodong.lu.me@gmail.com](), [yifeiliang@hust.edu.cn]().**
+📨 **Contact us at [haodong.lu.me@gmail.com](mailto:haodong.lu.me@gmail.com), [yifeiliang@hust.edu.cn](mailto:yifeiliang@hust.edu.cn).**
